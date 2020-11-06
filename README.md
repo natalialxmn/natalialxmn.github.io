@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## hey, i'm nat.
 
-You can use the [editor on GitHub](https://github.com/natalialxmn/natalialxmn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a 3rd year Electrical Engineering and Society student at McMaster University pursuing a minor in business. In the past few years of my post secondary career, I have come to realize what I am truly am passionate about - using one's own voice to be an advocate for what you personally believe in. 
+When I first entered engineering I will admit I felt way in over my head, and I still do sometimes. However, amidst all the late night studying, the back-to-back assignments, the endless networking and generally dealing with a great deal of stress at all times, what keeps me going is the thought that one day - if I keep on this path and stay true to my morals - I will be able to be in a position to create real change in this world. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
